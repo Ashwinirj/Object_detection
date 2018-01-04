@@ -5,7 +5,7 @@ Requirements:
 framework: tensorflow
 https://www.tensorflow.org/install/install_windows
 
-python-packages:
+
 
 
 
